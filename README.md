@@ -22,8 +22,9 @@
 
 - ⚡ Fun fact **I love Stand-up comic videos**
 
-### Blogs posts
+### Blogs posts: 
 <!-- BLOG-POST-LIST:START -->
+https://sitammeur.medium.com/different-javascript-frameworks-to-learn-a-complete-manual-cdd2aef590ce
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
