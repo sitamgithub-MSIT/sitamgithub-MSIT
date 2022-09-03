@@ -1,10 +1,9 @@
+[![MasterHead](https://engineering.giphy.com/wp-content/uploads/2017/06/api.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Sitam Meur</h1>
 <h3 align="center">A passionate programmer from India</h3>
-
+<img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/ExemplaryFairFeline-max-1mb.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sitamgithub-msit&label=Profile%20views&color=0e75b6&style=flat" alt="sitamgithub-msit" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sitamgithub-msit" alt="sitamgithub-msit" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/sitammeur" target="blank"><img src="https://img.shields.io/twitter/follow/sitammeur?logo=twitter&style=for-the-badge" alt="sitammeur" /></a> </p>
 
 - 🔭 I’m currently working on **Pygame projects**
