@@ -27,7 +27,7 @@ https://sitammeur.medium.com/different-javascript-frameworks-to-learn-a-complete
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sitamgithub-MSIT&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Dev Quote
+### ✍️ Dev Quotes
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
