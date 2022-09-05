@@ -15,7 +15,7 @@
 
 ## 💻 Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-https://sitammeur.medium.com/different-javascript-frameworks-to-learn-a-complete-manual-cdd2aef590ce
+- [Different JavaScript Frameworks to Learn !!! — — A Complete Manual.](https://sitammeur.medium.com/different-javascript-frameworks-to-learn-a-complete-manual-cdd2aef590ce)
 <!-- BLOG-POST-LIST:END -->
 
 
@@ -27,7 +27,7 @@ https://sitammeur.medium.com/different-javascript-frameworks-to-learn-a-complete
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sitamgithub-MSIT&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Dev Quotes
+### ✍️ Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
