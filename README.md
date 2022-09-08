@@ -1,4 +1,4 @@
-[![MasterHead](https://engineering.giphy.com/wp-content/uploads/2017/06/api.gif)]()
+[[MasterHead](https://engineering.giphy.com/wp-content/uploads/2017/06/api.gif)]()
 <h1 align="left">Hi 👋, I'm Sitam Meur</h1>
 <h3 align="left">A passionate programmer from India</h3>
 <img align="center" alt="Coding" width="400" src="https://thumbs.gfycat.com/ExemplaryFairFeline-max-1mb.gif">
