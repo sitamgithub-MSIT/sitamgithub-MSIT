@@ -1,7 +1,7 @@
 [![MasterHead](https://engineering.giphy.com/wp-content/uploads/2017/06/api.gif)]()
 <h1 align="left">Hi 👋, I'm Sitam Meur</h1>
 <h3 align="left">A passionate programmer from India</h3>
-<img align="center" alt="Coding" width="400" src="https://thumbs.gfycat.com/ExemplaryFairFeline-max-1mb.gif">
+<img align="center" alt="Coding" width="400" src="https://thumbs.gfycat.com/ExemplaryFairFeline-max-1mb.gif"]
 
 # #💫 About Me:
 🔭 I’m currently working on Pygame projects<br><br>🌱 I’m currently learning Javascript, and its React framework<br><br>👯 I’m looking to collaborate on Javascript, React & React Native<br><br>🤝 I’m looking for help with AI,ML concepts and ideas<br><br>📝 I regularly write articles on https://sitammeur.medium.com/<br><br>💬 Ask me about Python and its libraries, also DSA & Problem Solving Techniques<br><br>📫 How to reach me sitammeur@gmail.com<br><br>⚡ Fun fact I love Stand-up comic videos
