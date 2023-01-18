@@ -7,7 +7,7 @@
 🔭 I’m currently working on Pygame projects<br><br>🌱 I’m currently learning Javascript, and its React framework<br><br>👯 I’m looking to collaborate on Javascript, React & React Native<br><br>🤝 I’m looking for help with AI,ML concepts and ideas<br><br>📝 I regularly write articles on https://sitammeur.medium.com/<br><br>💬 Ask me about Python and its libraries, also DSA & Problem Solving Techniques<br><br>📫 How to reach me sitammeur@gmail.com<br><br>⚡ Fun fact I love Stand-up comic videos
 
 
-## 🌐 Socials:
+## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sitammeur3) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sitam-meur-44b762223) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@sitammeur) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Sitam-Meur) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19056320/sitam-meur) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/sitammeur) 
 
 ## 💻 Tech Stack:
