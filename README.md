@@ -3,7 +3,7 @@
 <br align="left"><strong>A passionate programmer from India  !</strong></br>
 <img align="center" alt="Coding" width="400" src="https://thumbs.gfycat.com/ExemplaryFairFeline-max-1mb.gif">
 
-##💫 About Me:
+## 💫 About Me:
 🔭 I’m currently working on ML and Deep Learning projects<br><br>👯 I’m looking to collaborate on AI, ML ideas, and Django projects<br><br>📝 I write articles on https://sitammeur.medium.com/<br><br>💬 Ask me about Python and its libraries, also DSA & Problem Solving Techniques<br><br>📫 How to reach me sitammeur@gmail.com<br><br>⚡ Fun fact I love Stand-up comic videos
 
 
