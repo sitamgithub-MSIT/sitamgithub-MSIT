@@ -4,8 +4,7 @@
 <img align="center" alt="Coding" width="400" src="https://thumbs.gfycat.com/ExemplaryFairFeline-max-1mb.gif">
 
 ## 💫 About Me:
-🔭 I am currently working on machine learning and deep learning projects.<br><br>👯 I want to collaborate on artificial intelligence, machine learning ideas, and Django backend projects.<br><br>💬 You can ask me about Python and its libraries, web frameworks, artificial intelligence, machine learning, data structures, algorithms, and problem-solving techniques.
-<br><br>📫 You can reach me at sitammeur@gmail.com.<br><br>⚡ Fun fact: I love watching stand-up comedy videos.
+🔭 I am currently working on machine learning and deep learning projects.<br><br>👯 I want to collaborate on artificial intelligence, machine learning ideas, and Django backend projects.<br><br>💬 You can ask me about Python 🐍 and its libraries, web frameworks 🌐, artificial intelligence and machine learning 🤖, data structures, algorithms, and problem-solving techniques.<br><br>📫 You can reach me at sitammeur@gmail.com.<br><br>⚡ Fun fact: I love watching stand-up comedy videos.
 
 
 ## 🌐 Socials:
