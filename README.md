@@ -16,7 +16,7 @@
 
 ## 💻 Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [Different JavaScript Frameworks to Learn !!! — — A Complete Manual.](https://sitammeur.medium.com/different-javascript-frameworks-to-learn-a-complete-manual-cdd2aef590ce)
+I enjoy sharing my thoughts and ideas in the "Tech with Tea" ☕ [newsletter](https://avirupnandi.substack.com/) on Substack. 😊
 <!-- BLOG-POST-LIST:END -->
 
 
