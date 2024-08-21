@@ -1,7 +1,7 @@
 [![MasterHead](https://img.freepik.com/free-vector/artificial-intelligence-linkedin-banner-template_23-2150360356.jpg?t=st=1724255357~exp=1724258957~hmac=e11025caa1182285b2dc19aff11e13a51f0393ae11b7ace573514e8276b79e04&w=1380)]()
 <h1 align="left">Hi 👋, I'm Sitam Meur</h1>
 <br align="left"><strong>A passionate programmer from India! Let's code and make magic happen! 🚀🇮🇳</strong></br>
-<img align="center" alt="Coding" width="400" src="https://thumbs.gfycat.com/ExemplaryFairFeline-max-1mb.gif">
+<!-- <img align="center" alt="Coding" width="400" src="https://thumbs.gfycat.com/ExemplaryFairFeline-max-1mb.gif"> -->
 
 ## 💫 About Me:
 🔭 I am currently working on machine learning and deep learning projects.<br><br>👯 I want to collaborate on artificial intelligence, machine learning ideas, and Django backend projects.<br><br>💬 You can ask me about Python 🐍 and its libraries, web frameworks 🌐, artificial intelligence and machine learning 🤖, data structures, algorithms, and problem-solving techniques.<br><br>📫 You can reach me at sitammeur@gmail.com.<br><br>⚡ Fun fact: I love watching stand-up comedy videos.
