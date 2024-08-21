@@ -1,7 +1,7 @@
-[![MasterHead](https://engineering.giphy.com/wp-content/uploads/2017/06/api.gif)]()
+[![MasterHead](https://img.freepik.com/free-photo/3d-rendering-biorobots-concept_23-2149524399.jpg?w=996&t=st=1724254821~exp=1724255421~hmac=95cd521411b6377d16a7bf75ea2475af0833c280c0653ab85b052ae4e1124bc5)]()
 <h1 align="left">Hi 👋, I'm Sitam Meur</h1>
 <br align="left"><strong>A passionate programmer from India! Let's code and make magic happen! 🚀🇮🇳</strong></br>
-<img align="center" alt="Coding" width="400" src="https://thumbs.gfycat.com/ExemplaryFairFeline-max-1mb.gif">
+<!-- <img align="center" alt="Coding" width="400" src="https://thumbs.gfycat.com/ExemplaryFairFeline-max-1mb.gif"> -->
 
 ## 💫 About Me:
 🔭 I am currently working on machine learning and deep learning projects.<br><br>👯 I want to collaborate on artificial intelligence, machine learning ideas, and Django backend projects.<br><br>💬 You can ask me about Python 🐍 and its libraries, web frameworks 🌐, artificial intelligence and machine learning 🤖, data structures, algorithms, and problem-solving techniques.<br><br>📫 You can reach me at sitammeur@gmail.com.<br><br>⚡ Fun fact: I love watching stand-up comedy videos.
